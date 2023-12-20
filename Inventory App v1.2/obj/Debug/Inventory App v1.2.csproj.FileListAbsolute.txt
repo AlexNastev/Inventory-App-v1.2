@@ -1,0 +1,42 @@
+C:\Users\alexn\source\repos\Inventory App v1.2\Inventory App v1.2\bin\Debug\Inventory App v1.2.exe.config
+C:\Users\alexn\source\repos\Inventory App v1.2\Inventory App v1.2\bin\Debug\Inventory App v1.2.exe
+C:\Users\alexn\source\repos\Inventory App v1.2\Inventory App v1.2\bin\Debug\Inventory App v1.2.pdb
+C:\Users\alexn\source\repos\Inventory App v1.2\Inventory App v1.2\bin\Debug\ControlzEx.dll
+C:\Users\alexn\source\repos\Inventory App v1.2\Inventory App v1.2\bin\Debug\Guna.UI2.dll
+C:\Users\alexn\source\repos\Inventory App v1.2\Inventory App v1.2\bin\Debug\MahApps.Metro.dll
+C:\Users\alexn\source\repos\Inventory App v1.2\Inventory App v1.2\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\alexn\source\repos\Inventory App v1.2\Inventory App v1.2\bin\Debug\ControlzEx.pdb
+C:\Users\alexn\source\repos\Inventory App v1.2\Inventory App v1.2\bin\Debug\ControlzEx.xml
+C:\Users\alexn\source\repos\Inventory App v1.2\Inventory App v1.2\bin\Debug\MahApps.Metro.pdb
+C:\Users\alexn\source\repos\Inventory App v1.2\Inventory App v1.2\bin\Debug\MahApps.Metro.xml
+C:\Users\alexn\source\repos\Inventory App v1.2\Inventory App v1.2\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\alexn\source\repos\Inventory App v1.2\Inventory App v1.2\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\alexn\source\repos\Inventory App v1.2\Inventory App v1.2\bin\Debug\de\MahApps.Metro.resources.dll
+C:\Users\alexn\source\repos\Inventory App v1.2\Inventory App v1.2\obj\Debug\Inventory App v1.2.csproj.AssemblyReference.cache
+C:\Users\alexn\source\repos\Inventory App v1.2\Inventory App v1.2\obj\Debug\Inventory_App_v1._2.Form1.resources
+C:\Users\alexn\source\repos\Inventory App v1.2\Inventory App v1.2\obj\Debug\Inventory_App_v1._2.Properties.Resources.resources
+C:\Users\alexn\source\repos\Inventory App v1.2\Inventory App v1.2\obj\Debug\Inventory App v1.2.csproj.GenerateResource.cache
+C:\Users\alexn\source\repos\Inventory App v1.2\Inventory App v1.2\obj\Debug\Inventory App v1.2.csproj.CoreCompileInputs.cache
+C:\Users\alexn\source\repos\Inventory App v1.2\Inventory App v1.2\obj\Debug\Inventory App v1.2.csproj.CopyComplete
+C:\Users\alexn\source\repos\Inventory App v1.2\Inventory App v1.2\obj\Debug\Inventory App v1.2.exe
+C:\Users\alexn\source\repos\Inventory App v1.2\Inventory App v1.2\obj\Debug\Inventory App v1.2.pdb
+C:\Users\alexn\source\repos\Inventory App v1.2\Inventory App v1.2\obj\Debug\Inventory_App_v1._2.UserControls.UC_AccountSettings.resources
+C:\Users\alexn\source\repos\Inventory App v1.2\Inventory App v1.2\obj\Debug\Inventory_App_v1._2.UserControls.UC_Assembly.resources
+C:\Users\alexn\source\repos\Inventory App v1.2\Inventory App v1.2\obj\Debug\Inventory_App_v1._2.UserControls.UC_Home.resources
+C:\Users\alexn\source\repos\Inventory App v1.2\Inventory App v1.2\obj\Debug\Inventory_App_v1._2.UserControls.UC_Inventory.resources
+C:\Users\alexn\source\repos\Inventory App v1.2\Inventory App v1.2\obj\Debug\Inventory_App_v1._2.UserControls.UC_Orders.resources
+C:\Users\alexn\source\repos\Inventory App v1.2\Inventory App v1.2\obj\Debug\Inventory_App_v1._2.UserControls.UC_Projects.resources
+C:\Users\alexn\source\repos\Inventory App v1.2\Inventory App v1.2\obj\Debug\Inventory_App_v1._2.UserControls.UC_Sales.resources
+C:\Users\alexn\source\repos\Inventory App v1.2\Inventory App v1.2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\alexn\source\repos\Inventory App v1.2\Inventory App v1.2\obj\Debug\Inventory_App_v1._2.Login.resources
+C:\Users\alexn\source\repos\Inventory App v1.2\Inventory App v1.2\obj\Debug\Inventory_App_v1._2.UserControls.Register.resources
+C:\Users\alexn\source\repos\Inventory App v1.2\Inventory App v1.2\obj\Debug\Inventory_App_v1._2.New_Supplier.resources
+C:\Users\alexn\source\repos\Inventory App v1.2\Inventory App v1.2\obj\Debug\Inventory_App_v1._2.View_Supplier.resources
+C:\Users\alexn\source\repos\Inventory App v1.2\Inventory App v1.2\obj\Debug\Inventory_App_v1._2.New_Order.resources
+C:\Users\alexn\source\repos\Inventory App v1.2\Inventory App v1.2\obj\Debug\Inventory_App_v1._2.New_Project.resources
+C:\Users\alexn\source\repos\Inventory App v1.2\Inventory App v1.2\obj\Debug\Inventory_App_v1._2.New_Customer.resources
+C:\Users\alexn\source\repos\Inventory App v1.2\Inventory App v1.2\obj\Debug\Inventory_App_v1._2.View_Customers.resources
+C:\Users\alexn\source\repos\Inventory App v1.2\Inventory App v1.2\obj\Debug\Inventory_App_v1._2.New_Quote.resources
+C:\Users\alexn\source\repos\Inventory App v1.2\Inventory App v1.2\obj\Debug\Inventory_App_v1._2.New_Assy.resources
+C:\Users\alexn\source\repos\Inventory App v1.2\Inventory App v1.2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\alexn\source\repos\Inventory App v1.2\Inventory App v1.2\bin\Debug\Newtonsoft.Json.xml
